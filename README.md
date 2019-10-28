@@ -1,2 +1,2 @@
 # BINF6210
-Machine Learning 
+BINF6210 Machine Learning 
